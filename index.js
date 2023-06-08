@@ -2,10 +2,10 @@ var Imap = require('imap'),
     inspect = require('util').inspect;
 
 var imap = new Imap({
-    // user: 'support.native@topica.edu.vn',
-    // password: 'zhniwufvyonrpbwl',
+    // user: 'support.native@gmail.com',
+    // password: '@zhniwufvyonrpbwl@',
     // user: 'doanthai0111@gmail.com',
-    // password: 'yppzqxstdbogtkrb',
+    // password: '@yppzqxstdbogtkrb@',
     host: 'imap.gmail.com',
     port: 993,
     tls: true,
